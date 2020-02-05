@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\fufer\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\fufer\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Text_Adventure.1108796511.00" t="ExcludeRecursive" />
+    <e p="E:\Descargas\TextAdventure_pt1\Text_Adventure" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="ActionResponse.cs" t="Include" />
+          <e p="ChangeRoomResponse.cs" t="Include" />
+          <e p="Examine.cs" t="Include" />
+          <e p="Exit.cs" t="Include" />
+          <e p="GameController.cs" t="Include" />
+          <e p="Go.cs" t="Include" />
+          <e p="InputAction.cs" t="Include" />
+          <e p="InteractableItems.cs" t="Include" />
+          <e p="InteractableObject.cs" t="Include" />
+          <e p="Interaction.cs" t="Include" />
+          <e p="Inventory.cs" t="Include" />
+          <e p="Room.cs" t="Include" />
+          <e p="RoomNavigation.cs" t="Include" />
+          <e p="Take.cs" t="Include" />
+          <e p="TextInput.cs" t="Include" />
+          <e p="Use.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Text_Adventure.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
